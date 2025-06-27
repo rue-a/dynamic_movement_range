@@ -1,0 +1,4 @@
+variable_key	value
+#campaign_variables_tables;0;db/campaign_variables_tables/reducedarmymovement_bask	
+pathfinding_land_to_sea_beach_transition_action_point_cost	400.0000
+pathfinding_sea_to_land_beach_transition_action_point_cost	400.0000
