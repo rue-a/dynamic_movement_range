@@ -11,7 +11,7 @@ mct_mod:set_description("Reduce Base Movement by [value], before applying dymani
 
 
 local base_reduction_percent_option = mct_mod:add_new_option("base_reduction_percent_slider", "slider")
-base_reduction_percent_option:slider_set_min_max(0, 50)
+base_reduction_percent_option:slider_set_min_max(25, 50)
 base_reduction_percent_option:slider_set_step_size(5)
 base_reduction_percent_option:set_default_value(40)
 base_reduction_percent_option:set_text("Baseline Movement Reduction")
